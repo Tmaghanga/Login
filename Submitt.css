@@ -1,0 +1,102 @@
+body {
+  background-image: url(Bg_00000.png);
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  color: #444;
+}
+
+.container {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.Top_100 {
+  text-align: center;
+  background-color: #037aff;
+  padding: 50px;
+  color: aliceblue;
+  font-family: sans-serif;
+  letter-spacing: 10px;
+  font-size: 30px;
+  margin-top: -20px;
+  margin-bottom: 0;
+  font-weight: bold;
+  border-radius: 7px;
+}
+
+.Info_Box {
+  height: 500px;
+  width: 650px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  margin: -20px auto;
+  /* opacity: calc(75%); */
+  /* position: relative; */
+  box-shadow: 0 0 20px #696969;
+}
+
+.first {
+  list-style: none;
+  padding-top: 5px;
+  margin-left: 0px;
+  /* background-color: #731cff; */
+  padding-bottom: 5px;
+  color: #666666;
+  /* border-top: #444 solid 2px; */
+  border-bottom: #444 solid 1px;
+}
+
+.Second {
+  list-style: none;
+  padding-top: 5px;
+  margin-left: 0px;
+  /* background-color: #0084ff; */
+  padding-bottom: 5px;
+  color: #666666;
+  border-top: #444 solid 1px;
+  border-bottom: #444 solid 1px;
+}
+
+.Third {
+  list-style: none;
+  padding-top: 5px;
+  /* margin-left: -20px; */
+  padding-bottom: 5px;
+  /* background-color: #731cff; */
+  color: #666666;
+  border-top: #444 solid 1px;
+  border-bottom: #444 solid 1px;
+}
+
+.Fourth {
+  list-style: none;
+  padding-top: 5px;
+  /* margin-left: -20px; */
+  /* background-color: #0084ff; */
+  color: #666666;
+  padding-bottom: 5px;
+  border-top: #444 solid 1px;
+  border-bottom: #444 solid 1px;
+}
+
+.Fifth {
+  list-style: none;
+  padding-top: 5px;
+  /* margin-left: -20px; */
+  /* background-color: #731cff; */
+  color: #666666;
+  padding-bottom: 5px;
+  border-top: #444 solid 1px;
+  border-bottom: #444 solid 1px;
+}
+
+.sixth {
+  list-style: none;
+  padding-top: 5px;
+  /* margin-left: -20px; */
+  /* background-color: #0084ff; */
+  color: #666666;
+  padding-bottom: 5px;
+  border-top: #444 solid 1px;
+  border-bottom: #444 solid 1px;
+}
